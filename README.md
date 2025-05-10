@@ -20,3 +20,5 @@ Messaging API: Custom implementation endpoints
 
 Built with TypeScript, WebSockets, and the Model Context Protocol  
 Documentation and Setup: https://tradovatemcp.vercel.app/
+
+More Trading bots are available from [https://aiprediction.us](https://aiprediction.us/software/) and https://aiprediction.us/bot/
