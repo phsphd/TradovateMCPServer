@@ -1,0 +1,2 @@
+# TradovateMCPServer
+Tradovate MCP server
