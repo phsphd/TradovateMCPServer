@@ -23,4 +23,4 @@ Documentation and Setup: https://tradovatemcp.vercel.app/
 
 More Trading bots are available from [https://aiprediction.us/software](https://aiprediction.us/software/) and https://aiprediction.us/bot/
 
-!(https://hits.sh/github.com/phsphd/TradovateMCPServer.svg?color=007ec6)
+![hit](https://hits.sh/github.com/phsphd/TradovateMCPServer.svg?color=007ec6)
